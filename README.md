@@ -1,5 +1,6 @@
 # Splæsj </br>
-This folder contains the code for android application developed as a part of school project in course Software Engineering.</br>
+This repository contains the code for the Android application Splæsj, which was developed as a part of a school project in course IN2000 - Software Engineering.</br>
+
 __Contributors__:</br>
 
 Linn Melanie Østbøll, [mullmon](https://github.com/mullmon)</br>
